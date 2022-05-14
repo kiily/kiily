@@ -31,4 +31,6 @@ You can follow my writing in a few different languages  🇵🇹 🇪🇸 🇫�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiily&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/bd675a16-0d77-446b-a8fe-360d47b2067f.svg)](https://wakatime.com/@bd675a16-0d77-446b-a8fe-360d47b2067f)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kiily)](https://github.com/anuraghazra/github-readme-stats)
