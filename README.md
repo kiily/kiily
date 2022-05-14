@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Miguel. I am a software developer with a passion for building products. I live in London and currently work @ FLOWN as the lead developer. 
+
+I tend to dabble on many things and have a few passing interests; currently, I am doing some writing, researching cryptocurrencies and trying to learn how to do some basic 3D printing. You can follow my writing in a few different languages, do check out my substack 🇵🇹 🇪🇸 (not sure what flag for English 😆)
+
+### diving into my github
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiily)](https://github.com/anuraghazra/github-readme-stats)
