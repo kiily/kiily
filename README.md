@@ -21,16 +21,12 @@ I tend to dabble on many things and have a few passing interests; currently, I a
 
 ### diving into my github
 
-<a href="">
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiily&count_private=true" />
-</a>
-<a href="">
+</div>
+<div href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiily&layout=compact" />
-</a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiily&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiily&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 [![wakatime](https://wakatime.com/badge/user/bd675a16-0d77-446b-a8fe-360d47b2067f.svg)](https://wakatime.com/@bd675a16-0d77-446b-a8fe-360d47b2067f)
 
