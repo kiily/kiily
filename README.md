@@ -96,32 +96,16 @@ I have published some articles on Medium in topics related to my work at FLOWN i
 - [An adventure with Vercel and Datadog](https://medium.com/p/eb0d0841aecb)
 - [4 habits that keep me sane and productive](https://medium.com/@kiily/4-habits-that-keep-me-sane-and-productive-69fb4c5df9a)
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
 ## Get in touch
 
 Because it is inevitable to have at leas one channel in social media.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.1]][2].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/kiily/kiily/blob/main/assets/twitter.png?raw=true (twitter icon blue)
-[2.2]: https://github.com/kiily/kiily/blob/main/assets/linkedin.png?raw=true (LinkedIn icon blue)
+[1.1]: https://github.com/kiily/kiily/blob/main/assets/twitter.png?raw=true (twitter icon blue)
+[2.1]: https://github.com/kiily/kiily/blob/main/assets/linkedin.png?raw=true (LinkedIn icon blue)
 
 <!-- Links to your social media accounts -->
 
