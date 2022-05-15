@@ -114,10 +114,10 @@ I have published some articles on Medium in topics related to my work at FLOWN i
 
 ## Get in touch
 
+Because it is inevitable to have at leas one channel in social media.
 
-[1]: https://twitter.com/kiily95
-[2]: https://github.com/kiily
-
+<a href="https://twitter.com/kiily95"><img height="30" src="https://github.com/kiily/kiily/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/%F0%9F%90%89-miguel-marin-vermelho-09805185/"><img height="30" src="https://github.com/kiily/kiily/blob/main/assets/linkedin.png?raw=true"></a>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
