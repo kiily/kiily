@@ -24,7 +24,7 @@ And, of course, I love to spend time coding. Probably not an accurate total of a
 [![wakatime](https://wakatime.com/badge/user/bd675a16-0d77-446b-a8fe-360d47b2067f.svg)](https://wakatime.com/@bd675a16-0d77-446b-a8fe-360d47b2067f)
 
 
-⚽️ 🎾 🏓 🇱🇺 🇯🇵 🇮🇷 🏂 ⛷ 🚀 💭 🧠 📚 
+⚽️ 🎾 🏓 🇱🇺 🇯🇵 🇮🇷 🏂 ⛷ 🚀 💭 🧠 📚 🐝 🐧
 
 <!-- 
 ![GitHub followers](https://img.shields.io/github/followers/kiily?style=social)
