@@ -100,7 +100,7 @@ I have published some articles on Medium in topics related to my work at FLOWN i
 
 Because it is inevitable to have at leas one channel in social media.
 
-Find me on [![Twitter][1.1]][1]   [![LinkedIn][2.1]][2].
+[![Twitter][1.1]][1]   [![LinkedIn][2.1]][2].
 
 <!-- Icons -->
 
