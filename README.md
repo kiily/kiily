@@ -33,7 +33,7 @@ And, of course, I love to spend time coding. Probably not an accurate total of a
 -->
 
 
-# 🧪 Technologies
+## 🧪 Technologies
 
 
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -57,7 +57,7 @@ And, of course, I love to spend time coding. Probably not an accurate total of a
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kiily)](https://github.com/anuraghazra/github-readme-stats)
 
-# ✨ Some (not so) shiny stats 
+## ✨ Some (not so) shiny stats 
 
 <a href="https://github.com/kiily/kiily">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiily&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="kiily's GitHub Stats" />
@@ -69,18 +69,18 @@ And, of course, I love to spend time coding. Probably not an accurate total of a
 
 <br>
 
-# 📝 Writing
+## 📝 Writing
 
 I write when I am bored or when I feel like offloading thoughts onto paper (or screen I suppose)... Please do show these some love if you like the content as it will go a long way to push me to do more.
 
-# 🖌 Creative writing
+### 🖌 Creative writing
 
 You can follow my writing in a few different languages 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇪🇸 🇫🇷 
 
 ![https://kiily.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile](https://img.shields.io/badge/Kiily's%20musings-Substack-informational?style=flat&logo=substack&logoColor=white&color=2bbc8a)
 
 
-# 💻 Technical writing
+### 💻 Technical writing
 
 I have published some articles on Medium in topics related to my work at FLOWN i.e. technology in our stack and productivity.
 
@@ -107,6 +107,9 @@ I have published some articles on Medium in topics related to my work at FLOWN i
 
 
 <!-- links to your social media accounts -->
+
+## Get in touch
+
 
 [1]: https://twitter.com/kiily95
 [2]: https://github.com/kiily
