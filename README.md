@@ -116,8 +116,17 @@ I have published some articles on Medium in topics related to my work at FLOWN i
 
 Because it is inevitable to have at leas one channel in social media.
 
-<a href="https://twitter.com/kiily95"><img height="30" src="https://github.com/kiily/kiily/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/%F0%9F%90%89-miguel-marin-vermelho-09805185/"><img height="30" src="https://github.com/kiily/kiily/blob/main/assets/linkedin.png?raw=true"></a>
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://github.com/kiily/kiily/blob/main/assets/twitter.png?raw=true (twitter icon blue)
+[2.2]: https://github.com/kiily/kiily/blob/main/assets/linkedin.png?raw=true (LinkedIn icon blue)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/kiily95
+[2]: https://www.linkedin.com/in/%F0%9F%90%89-miguel-marin-vermelho-09805185/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
