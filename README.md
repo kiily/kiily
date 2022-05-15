@@ -55,9 +55,9 @@ And, of course, I love to spend time coding. Probably not an accurate total of a
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Bitrise-informational?style=flat&logo=bitrise&logoColor=white&color=2bbc8a)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kiily)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![kiily's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kiily)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## ✨ Some (not so) shiny stats 
+<!-- ## ✨ Some (not so) shiny stats 
 
 <a href="https://github.com/kiily/kiily">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiily&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="kiily's GitHub Stats" />
@@ -65,7 +65,7 @@ And, of course, I love to spend time coding. Probably not an accurate total of a
 </a>
 <a href="https://github.com/kiily/kiily">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiily&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Top languages"/>
-</a>
+</a> -->
 
 <br>
 
