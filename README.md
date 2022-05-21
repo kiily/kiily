@@ -98,7 +98,7 @@ I have published some articles on Medium in topics related to my work at FLOWN i
 
 ## Get in touch
 
-Because it is inevitable to have at leas one channel in social media.
+Because it is inevitable to have at least one channel in social media.
 
 [![Twitter][1.1]][1]   [![LinkedIn][2.1]][2].
 
