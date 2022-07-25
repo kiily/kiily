@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Miguel. I am a software engineer with a passion for building products and all things productivity. I live in London and currently work [@FLOWN](https://flown.com) as the lead developer. FLOWN is focused on helping people reach deep work states more often.
 
-I tend to dabble in a few things (sometimes too many for my own good...) and have a few passing interests; currently, I am doing some creative writing, researching cryptocurrencies, learning Japanese, and trying to learn how to do some basic 3D printing. (some are going a lot better than others 🙃). Oh, and Web3, it's coming strong...
+I tend to dabble in a few things (sometimes too many for my own good...) and have a few passing interests; currently, I am doing some creative writing, researching cryptocurrencies, learning Japanese, and trying to learn how to do some basic 3D printing. (some are going a lot better than others 🙃). Oh, and Web3, maybe, not sure...
 
 And, of course, I love to spend time coding. Probably not an accurate total of all time, but let's make this one 10000h 👀
 
