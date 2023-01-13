@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Miguel. I am a software engineer with a passion for building products and all things productivity. I live in London and currently work [@FLOWN](https://flown.com) as the lead developer. FLOWN is focused on helping people reach deep work states more often.
+My name is Miguel. I am a software engineer with a passion for building products and all things productivity. I live in London and currently work [@FLOWN](https://flown.com) as the lead developer. FLOWN is focused on helping people work better and feel good doing it.
 
 I tend to dabble in a few things (sometimes too many for my own good...) and have a few passing interests; currently, I am doing some creative writing, researching cryptocurrencies, learning Japanese, and trying to learn how to do some basic 3D printing. (some are going a lot better than others 🙃). Oh, and Web3, maybe, not sure...
 
