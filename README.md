@@ -88,7 +88,7 @@ You can follow my writing in a few different languages 🇵🇹 🏴󠁧󠁢󠁥
 
 I have published some articles on Medium in topics related to my work at FLOWN i.e. technology in our stack and productivity.
 
-![](https://img.shields.io/badge/Medium-@kiily-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a)[Medium](https://medium.com/@kiily)
+[![](https://img.shields.io/badge/Medium-@kiily-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a)](https://medium.com/@kiily)
 
 **Latest posts**
 
