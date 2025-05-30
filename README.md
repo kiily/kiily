@@ -81,7 +81,7 @@ I write when I am bored or when I feel like offloading thoughts onto paper (or s
 
 You can follow my writing in a few different languages 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇪🇸 🇫🇷 
 
-![https://kiily.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile](https://img.shields.io/badge/Kiily's%20musings-Substack-informational?style=flat&logo=substack&logoColor=white&color=2bbc8a)
+[![](https://img.shields.io/badge/Kiily's%20musings-Substack-informational?style=flat&logo=substack&logoColor=white&color=2bbc8a)](https://kiily.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
 
 
 ### 💻 Technical writing
